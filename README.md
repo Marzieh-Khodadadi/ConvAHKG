@@ -13,3 +13,5 @@ The core dependencies for the ConvAHKG model are:
 *   Natural Language Processing: nltk==3.8.1, gensim==4.3.3.
 
 *   GPU Acceleration: Required NVIDIA CUDA Toolkit 12.3 and associated libraries (as listed in the environment).
+
+*   [Click here to download the environment file](https://github.com/Marzieh-Khodadadi/ConvAHKG/blob/main/Environment%20Details.txt)
